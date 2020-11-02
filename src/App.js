@@ -17,6 +17,9 @@ function App() {
         >
           Learn React
         </a>
+        <p>
+          Powered by Alessandro Santoni
+        </p>
       </header>
     </div>
   );
